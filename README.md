@@ -55,5 +55,4 @@ https://test-sofcast27.streamlit.app/
 
 ## Clonar el repositorio
 Para clonar este repositorio:
-```bash
-git clone https://github.com/SofCast27/proyectos-tripleten.git
+https://github.com/SofCast27/proyectos-tripleten.git
